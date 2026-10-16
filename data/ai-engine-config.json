@@ -1,0 +1,15 @@
+{
+  "primaryProvider": "deepseek",
+  "autoFailover": true,
+  "failoverOrder": [
+    "deepseek",
+    "gemini",
+    "aisa"
+  ],
+  "disabledProviders": [],
+  "models": {
+    "gemini": "gemini-2.5-flash",
+    "deepseek": "deepseek-chat",
+    "aisa": "gpt-4o-mini"
+  }
+}

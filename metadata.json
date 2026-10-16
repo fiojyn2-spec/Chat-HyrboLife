@@ -1,0 +1,6 @@
+{
+  "name": "المساعد الذكي من هيربولايف",
+  "description": "تطبيق محادثة ذكي ومتقدم مخصص لمنتجات هيربولايف، مع نظام إدارة قاعدة المعرفة والبرومبتات العصبية التسويقية وفيديوهات الإقناع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
